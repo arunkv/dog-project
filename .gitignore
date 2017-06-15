@@ -8,4 +8,12 @@ bottleneck_features/DogVGG16Data.npz
 dogImages.zip
 lfw.tgz
 dogvshuman
+__pycache__/
+bottleneck_features/DogInceptionV3Data.npz
+bottleneck_features/DogResnet50Data.npz
+bottleneck_features/DogVGG19Data.npz
+bottleneck_features/DogXceptionData.npz
+saved_models/weights.best.VGG16.hdf5
+saved_models/weights.best.VGG19.hdf5
+saved_models/weights.best.Xception.hdf5
 
